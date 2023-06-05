@@ -312,6 +312,11 @@
 
 PORT
 
+.portfolio-main{
+    padding-top: 96px;
+     padding-bottom: 120px;
+}
+
 .portfolio {
     background: var(--light-background);
     display: flex;
